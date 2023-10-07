@@ -4,11 +4,11 @@
 ```bash
 pip intall huggingface bs4
 ```
-## 1. Use this following command to run the bot in conda base environment.
+## Run the bot in conda base environment.
 ```bash
 python -m bot
 ```
-## 2. Special Instructions.
+## Special Instructions.
 <ul>
 <li>Run the bot using the command. if the bot is given any commands present in list : ["close","no","bye","off"], then the bot will automatically turn off.</li>
 
