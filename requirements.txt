@@ -3,3 +3,4 @@ hugchat
 requests
 python-time
 os-sys
+spacy
