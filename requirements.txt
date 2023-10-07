@@ -1,5 +1,5 @@
 bs4
 hugchat
 requests
-time
-sys
+python-time
+os-sys
