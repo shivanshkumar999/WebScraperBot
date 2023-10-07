@@ -1,13 +1,13 @@
 # Web Scraper Bot using Huggingface
 
 ## Requirements
-
-> pip intall huggingface bs4
-
+```bash
+pip intall huggingface bs4
+```
 ## 1. Use this following command to run the bot in conda base environment.
-
-> python -m bot
-
+```bash
+python -m bot
+```
 ## 2. Special Instructions.
 <ul>
 <li>Run the bot using the command. if the bot is given any commands present in list : ["close","no","bye","off"], then the bot will automatically turn off.</li>
