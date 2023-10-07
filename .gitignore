@@ -1,0 +1,9 @@
+__pycache__
+.venv
+cookies.json
+test.py
+dist/*
+*.egg-info
+
+.idea/
+usercookies/
