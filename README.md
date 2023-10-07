@@ -1,4 +1,4 @@
-# Internship Assignment Web Scraper Bot using Huggingface
+# Web Scraper Bot using Huggingface
 
 ## 1. Use this following command to run the bot in conda base environment.
 
