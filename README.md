@@ -1,5 +1,9 @@
 # Web Scraper Bot using Huggingface
 
+## Requirements
+
+> pip intall huggingface bs4
+
 ## 1. Use this following command to run the bot in conda base environment.
 
 > python -m bot
